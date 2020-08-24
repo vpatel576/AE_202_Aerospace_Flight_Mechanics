@@ -1,1 +1,2 @@
-# AE_202_Aerospace_Flight_Mechanics
+# AE 202 Aerospace Flight Mechanics
+Codes for AE 202 at the University of Illinois at Urbana-Champaign. This course explores fundamental principles of aerospace flight mechanics applied to spacecraft and aircraft. Specific topics include orbital mechanics, rocket propulsion, and dynamics and control applied to spacecraft design and aerodynamics, maneuvering, stability and flight performance applied to aircraft design.
